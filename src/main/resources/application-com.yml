@@ -1,0 +1,6 @@
+lk:
+  kafka:
+    bootstrapServers: ${BOOTSTRAP_SERVERS}
+    topic:
+      userPaymentRecordTopic: ${KAFKA_TOPIC_USER_PAYMENT_RECORD}
+      userRefundRecordTopic: ${KAFKA_TOPIC_USER_REFUND_RECORD}

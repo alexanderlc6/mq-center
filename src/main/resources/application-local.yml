@@ -1,0 +1,6 @@
+lk:
+  kafka:
+    bootstrapServers: localhost:9092 #10.19.27.109:31393,10.19.27.109:29522,10.19.27.109:30621
+    topic:
+      userPaymentRecordTopic: payment-topic
+      userRefundRecordTopic: refund-topic
